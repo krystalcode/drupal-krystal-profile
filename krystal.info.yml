@@ -1,0 +1,58 @@
+name: Krystal
+type: profile
+description: 'The Krystal install profile'
+core: 8.x
+
+dependencies:
+  - admin_toolbar
+  - admin_toolbar_tools
+  - advagg
+  - advagg_css_minify
+  - advagg_js_minify
+  - block
+  - breakpoint
+  - chosen
+  - chosen_lib
+  - ckeditor
+  - comment
+  - config_filter
+  - config_split
+  - contextual
+  - ctools
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - email_registration
+  - entity
+  - entity_reference_revisions
+  - field
+  - field_group
+  - field_ui
+  - file
+  - filter
+  - flysystem
+  - image
+  - inline_entity_form
+  - link
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - system
+  - taxonomy
+  - telephone
+  - text
+  - token
+  - toolbar
+  - user
+  - views_ui
+  - menu_link_content
+  - pathauto
+  - redis
+  - views
+  - paragraphs
+theme:
+  - seven
+  - bootstrap
