@@ -28,6 +28,6 @@
         "drupal/pathauto": "^1.2",
         "drupal/swiftmailer": "^1.0-beta",
         "drupal/ultimate_cron": "^2.0-alpha",
-        "drupal/webform": "5.x-dev"
+        "drupal/webform": "5.0"
     }
 }
