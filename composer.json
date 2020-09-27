@@ -1,8 +1,8 @@
 {
-    "name": "krystalcode/drupal8-krystal-profile",
-    "description": "The Krystal Drupal 8 install profile.",
+    "name": "krystalcode/drupal-krystal-profile",
+    "description": "The Krystal Drupal install profile.",
     "type": "drupal-profile",
-    "homepage": "https://github.com/krystalcode/drupal8-krystal-profile",
+    "homepage": "https://github.com/krystalcode/drupal-krystal-profile",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
