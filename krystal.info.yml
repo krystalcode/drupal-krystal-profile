@@ -1,52 +1,10 @@
 name: Krystal
 type: profile
 description: 'The Krystal install profile'
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^10
 
 dependencies:
-  - advagg
-  - advagg_bundler
-  - advagg_css_minify
-  - advagg_js_minify
-  - block
-  - breakpoint
-  - chosen
-  - chosen_lib
-  - ckeditor
-  - comment
-  - datetime
-  - dynamic_page_cache
-  - editor
-  - email_registration
-  - field
-  - field_group
-  - field_ui
-  - file
-  - filter
-  - flysystem
-  - image
-  - imagick
-  - link
-  - mailsystem
-  - menu_link_content
-  - menu_ui
-  - node
-  - options
-  - page_cache
-  - path
-  - pathauto
   - system
-  - swiftmailer
-  - taxonomy
-  - telephone
-  - text
-  - token
-  - ultimate_cron
-  - user
-  - views
-  - webform
-  - webform_ui
 theme:
-  - seven
-  # @I Include and enable a bootstrap sub-theme
-  - bootstrap
+  - claro
+  - olivero
