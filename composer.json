@@ -27,7 +27,7 @@
         "drupal/metatag": "^2.0",
         "drupal/paragraphs": "^1.0",
         "drupal/pathauto": "^1.0",
-        "drupal/schema_metatag": "^2.0",
+        "drupal/schema_metatag": "^3.0",
         "drupal/symfony_mailer": "^1.0",
         "drupal/ultimate_cron": "^2.0",
         "drupal/webform": "^6.0",
