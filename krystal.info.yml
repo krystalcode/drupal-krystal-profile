@@ -12,7 +12,6 @@ dependencies:
   - breakpoint
   - chosen
   - chosen_lib
-  - ckeditor
   - comment
   - datetime
   - dynamic_page_cache
