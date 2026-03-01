@@ -31,6 +31,6 @@
         "drupal/symfony_mailer": "^1.0",
         "drupal/ultimate_cron": "^2.0",
         "drupal/webform": "^6.0",
-        "drupal/xmlsitemap": "^1.0"
+        "drupal/xmlsitemap": "^1.0 || ^2.0"
     }
 }
